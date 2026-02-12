@@ -1,4 +1,3 @@
 # Username93939
 ## Currently working on:
-1. Stackfish-I (website that definitley does not have any relation in its name with Stockfish)
-2. Programs for Ti-84
+1. Programs for Ti-81
